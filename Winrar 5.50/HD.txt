@@ -1,0 +1,7 @@
+                      WinRAR 5.50 Final (x86/x64)
+Neu khong tu dong kich hoat thi ban hay copy file "rarreg.key" vao thu muc cai dat cua winRAR
+
+Duong dan vao thu muc cai dat cua winRAR
++, Voi windows 32Bit: C:\Program Files\WinRAR
++, Voi windows 64Bit cai winrar 64bit: C:\Program Files\WinRAR
++, Voi windows 64Bit cai winrar 32bit: C:\Program Files(86)\WinRAR
